@@ -44,4 +44,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
