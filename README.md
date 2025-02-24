@@ -58,6 +58,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
@@ -80,5 +81,6 @@
 | [0035-search-insert-position](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
