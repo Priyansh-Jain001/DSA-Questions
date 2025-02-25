@@ -22,9 +22,7 @@ class Solution {
                     }else{
                         end--;
                         st++;
-                    }
-
-                    
+                    } 
                 }
             } 
 
