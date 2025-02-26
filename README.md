@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -87,4 +89,8 @@
 | [0792-binary-search](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
