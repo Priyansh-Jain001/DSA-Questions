@@ -55,6 +55,7 @@
 | [0020-valid-parentheses](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0503-next-greater-element-ii) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0283-move-zeroes](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0907-koko-eating-bananas) |
@@ -107,4 +109,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
