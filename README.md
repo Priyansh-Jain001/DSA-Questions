@@ -9,6 +9,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [1013-fibonacci-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -36,6 +37,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0148-sort-list) |
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0503-next-greater-element-ii) |
@@ -62,6 +65,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0283-move-zeroes) |
@@ -108,6 +112,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
