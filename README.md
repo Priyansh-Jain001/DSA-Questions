@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -15,6 +16,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0234-palindrome-linked-list) |
