@@ -47,6 +47,7 @@
 | [0141-linked-list-cycle](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0908-middle-of-the-linked-list) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
