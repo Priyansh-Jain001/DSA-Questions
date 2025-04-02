@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0231-power-of-two) |
@@ -56,6 +57,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0242-valid-anagram) |
@@ -126,6 +128,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0242-valid-anagram) |
