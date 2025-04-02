@@ -59,6 +59,7 @@
 | [0141-linked-list-cycle](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -101,6 +102,7 @@
 | [0148-sort-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [0020-valid-parentheses](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Monotonic Stack
@@ -145,4 +148,16 @@
 | [0435-non-overlapping-intervals](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0890-lemonade-change](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
