@@ -1,12 +1,5 @@
 class Solution {
     public String frequencySort(String s) {
-        // TreeMap<Character, Integer> map = new TreeMap<>();
-
-        // for(int i=0; i<s.length(); i++){
-        //     char c = s.charAt(i);
-
-        //     if(map.get(c))
-        // }
         ArrayList<Character> list = new ArrayList<>();
 
         for(int i=0;i<s.length(); i++){
@@ -26,12 +19,9 @@ class Solution {
         StringBuilder ans = new StringBuilder();
         while(!maxHeap.isEmpty()){
             char ch = maxHeap.poll();
-            ans.append(String.valueOf(ch).repeat(map.get(ch)));
+            ans.append(String.valueOf(ch).repeat(map.get(ch))); // repeat the character till its frequence
         }
 
         return ans.toString();
-        
-
-
     }
 }
