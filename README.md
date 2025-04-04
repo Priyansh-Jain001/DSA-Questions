@@ -18,6 +18,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0242-valid-anagram](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1078-remove-outermost-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Monotonic Stack
 |  |
