@@ -11,7 +11,7 @@ class Solution {
         // DP transition
         for (int i = 1; i <= n; i++) {
             int coin = coins[i - 1];
-            for (int j = 0; j <= amount; j++) {
+            for (int j = 1; j <= amount; j++) {
                 // Not take the current coin
                 dp[i][j] = dp[i - 1][j];
 
@@ -25,3 +25,20 @@ class Solution {
         return dp[n][amount];
     }
 }
+
+ /*
+ Alternate way
+
+    public int change(int amount, int[] coins) {
+        int dp[] = new int[amount + 1];
+        dp[0] = 1;
+
+        for(int coin : coins){
+            for(int i = coin; i <= amount; i++){
+                dp[i] += dp[i-coin];
+            }
+        }
+        return dp[amount];
+    }
+
+ */
