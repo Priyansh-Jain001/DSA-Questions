@@ -5,7 +5,7 @@ class Solution {
 
         int child = 0, cookie = 0;
 
-        while (child < g.length && cookie < s.length) {
+        while (cookie < s.length && child < g.length) {
             if (s[cookie] >= g[child]) {
                 child++; // This child is content
             }
