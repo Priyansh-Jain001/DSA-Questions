@@ -7,6 +7,7 @@
 | [0013-roman-to-integer](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
@@ -54,6 +55,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0455-assign-cookies) |
@@ -88,6 +90,7 @@
 | [0042-trapping-rain-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
