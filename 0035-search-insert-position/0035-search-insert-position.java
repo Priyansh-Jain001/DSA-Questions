@@ -14,6 +14,7 @@ class Solution {
             }
         }
 
-        return result+1;
+        return st;
+        // return result+1;
     }
 }
