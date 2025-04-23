@@ -4,8 +4,8 @@ class Solution {
         while(st<=end){
             int mid = st + (end-st)/2;
             if(target == nums[mid]){
-                ans = mid;
-                return ans;
+                // ans = mid;
+                return mid;
             }
             if(nums[mid] < nums[end]){
                 if(target > nums[mid] && target <= nums[end]){
