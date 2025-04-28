@@ -22,7 +22,6 @@ class Solution {
             return nums[0];
         }
 
-        // if(nums)
         int [] arr = new int[nums.length];
         int [] ans = robHelper(arr, nums);
 
