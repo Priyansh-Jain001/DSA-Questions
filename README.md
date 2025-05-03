@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0213-house-robber-ii) |
@@ -25,6 +26,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0231-power-of-two) |
@@ -153,6 +155,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0044-wildcard-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -172,6 +175,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0044-wildcard-matching) |
 | [0435-non-overlapping-intervals](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0890-lemonade-change) |
