@@ -55,6 +55,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0141-linked-list-cycle) |
@@ -93,6 +94,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0035-search-insert-position) |
@@ -130,6 +132,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0217-contains-duplicate) |
