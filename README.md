@@ -32,6 +32,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0234-palindrome-linked-list) |
@@ -48,6 +49,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0234-palindrome-linked-list) |
@@ -63,6 +65,7 @@
 | [0042-trapping-rain-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0189-rotate-array) |
@@ -87,6 +90,7 @@
 | [0020-valid-parentheses](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0234-palindrome-linked-list) |
