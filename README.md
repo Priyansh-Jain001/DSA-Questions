@@ -17,6 +17,7 @@
 | [0042-trapping-rain-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0198-house-robber) |
@@ -109,6 +110,7 @@
 | [0035-search-insert-position](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0136-single-number) |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0890-lemonade-change) |
