@@ -9,6 +9,7 @@
 | [0070-climbing-stairs](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -86,6 +87,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0496-next-greater-element-i) |
@@ -125,6 +127,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -158,6 +161,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -174,6 +178,7 @@
 | [0035-search-insert-position](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0907-koko-eating-bananas) |
@@ -183,6 +188,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
