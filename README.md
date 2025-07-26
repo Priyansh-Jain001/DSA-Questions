@@ -141,6 +141,7 @@
 | [0735-asteroid-collision](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0735-asteroid-collision) |
+| [0898-transpose-matrix](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0898-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -295,4 +297,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
