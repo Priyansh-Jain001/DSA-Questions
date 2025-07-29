@@ -25,6 +25,7 @@
 | [0198-house-robber](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0518-coin-change-ii) |
@@ -77,6 +78,7 @@
 | [0189-rotate-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -207,6 +209,7 @@
 | [0044-wildcard-matching](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0044-wildcard-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1078-remove-outermost-parentheses) |
