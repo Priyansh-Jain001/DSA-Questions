@@ -1,4 +1,6 @@
+/* One way find lcs if(lcs == length) -> true TC = O(n*m)
 class Solution {
+    
     public int lcs(String s, String t){
         int n = s.length(), m=t.length();
         int [][] dp = new int[n+1][m+1];
@@ -25,6 +27,8 @@ class Solution {
 
         return dp[n][m];
     }
+    
+
     public boolean isSubsequence(String s, String t) {
         int lcs = lcs(s, t);
         if(lcs == s.length()){
@@ -32,5 +36,25 @@ class Solution {
         }
 
         return false;
+    }
+}
+*/
+
+class Solution {
+    public boolean isSubsequence(String s, String t) {
+        char [] c1 = s.toCharArray();
+        char [] c2 = t.toCharArray();
+        int m = c1.length, n = c2.length;
+        
+        int i = 0, j = 0;
+
+        while (i < m && j < n) {
+            if (c1[i] == c2[j]) {
+                i++;
+            }
+            j++;
+        }
+
+        return i == m;
     }
 }
