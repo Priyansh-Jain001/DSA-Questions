@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
+| [3227-find-missing-and-repeated-values](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [3227-find-missing-and-repeated-values](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [0907-koko-eating-bananas](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3227-find-missing-and-repeated-values](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -312,4 +315,5 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0898-transpose-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
