@@ -322,4 +322,8 @@
 | [0074-search-a-2d-matrix](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0898-transpose-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/3227-find-missing-and-repeated-values) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
