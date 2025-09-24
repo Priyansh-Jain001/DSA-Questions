@@ -231,6 +231,7 @@
 | [0392-is-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0516-longest-palindromic-subsequence) |
+| [0812-rotate-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
@@ -340,4 +341,8 @@
 | [0175-combine-two-tables](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0181-employees-earning-more-than-their-managers) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
