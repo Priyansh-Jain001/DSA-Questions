@@ -106,6 +106,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3227-find-missing-and-repeated-values](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
@@ -242,6 +243,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Monotonic Stack
 |  |
@@ -280,6 +282,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Tree
 |  |
 | ------- |
