@@ -32,18 +32,20 @@ class Solution {
     public String largestOddNumber(String num) {
         // ArrayList<Long> list = new ArrayList<>();
         // String ans = func(num, 0, "", list);
-        int ans = -1;
+        // int ans = -1;
 
 // Start traversing from the back and return the string from 0 to the idx i where you first got the odd value
 
         for(int i = num.length() - 1; i>=0; i--){
             int n = Integer.parseInt(Character.toString(num.charAt(i)));
             if(n%2 != 0){
-                ans = i;
-                break;
+                // ans = i;
+                return num.substring(0, i+1);
+                // break;
             }
         }
 
-        return num.substring(0, ans+1);
+        // return num.substring(0, ans+1);
+        return "";
     }
 }
