@@ -29,6 +29,7 @@ class Solution {
         return max+1;
         */
 
+        /* Approach2 TC = O(n logn), SC = O(n)
         int count =0, max = 0;
 
         if(nums.length == 0) return 0;
@@ -59,5 +60,29 @@ class Solution {
         }
 
         return max+1;
+        */
+
+    HashSet<Integer> set = new HashSet<>();
+    for (int num : nums) set.add(num);
+
+    int longest = 0;
+
+    for (int num : set) {
+        // only start counting when num is the beginning of a sequence
+        if (!set.contains(num - 1)) {
+            int current = num;
+            int count = 1;
+
+            while (set.contains(current + 1)) {
+                current++;
+                count++;
+            }
+
+            longest = Math.max(longest, count);
+        }
     }
+
+        return longest;
+    }
+
 }
