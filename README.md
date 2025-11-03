@@ -97,6 +97,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0205-isomorphic-strings) |
@@ -143,6 +144,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -362,4 +364,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0812-rotate-string) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
