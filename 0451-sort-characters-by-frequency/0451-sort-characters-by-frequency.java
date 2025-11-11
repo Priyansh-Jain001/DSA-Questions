@@ -6,7 +6,7 @@ class Solution {
             list.add(s.charAt(i));
         }
 
-        TreeMap<Character, Integer> map = new TreeMap<>();
+        HashMap<Character, Integer> map = new HashMap<>();
         for(char c: list){
             map.put(c, map.getOrDefault(c, 0) + 1);;
             
