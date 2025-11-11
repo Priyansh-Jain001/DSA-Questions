@@ -90,6 +90,7 @@
 | [0344-reverse-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -245,6 +246,7 @@
 | [0392-is-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0516-longest-palindromic-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1250-longest-common-subsequence) |
