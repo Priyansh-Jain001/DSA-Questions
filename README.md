@@ -317,6 +317,7 @@
 | [0130-surrounded-regions](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0733-flood-fill) |
@@ -340,6 +341,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0733-flood-fill) |
@@ -395,10 +397,12 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
