@@ -320,6 +320,7 @@
 | [0210-course-schedule-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -342,6 +343,7 @@
 | [0210-course-schedule-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1020-number-of-enclaves) |
 ## Quickselect
@@ -388,11 +390,13 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0130-surrounded-regions) |
+| [0785-is-graph-bipartite](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1020-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
