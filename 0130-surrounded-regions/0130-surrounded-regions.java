@@ -31,7 +31,7 @@ class Solution {
 
                 if(nx>=0 && ny>=0 && nx<n && ny<m && !visited[nx][ny] && board[nx][ny] == 'O'){
                     board[nx][ny] = '*';
-                    visited[nx][ny] = true;
+                    // visited[nx][ny] = true;
                     q.add(new int[]{nx, ny});
                     
                 }
