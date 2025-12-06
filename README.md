@@ -178,6 +178,7 @@
 | [0907-koko-eating-bananas](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0907-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3227-find-missing-and-repeated-values](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -348,6 +349,7 @@
 | [0785-is-graph-bipartite](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Quickselect
 |  |
 | ------- |
@@ -376,6 +378,7 @@
 | [0898-transpose-matrix](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/3227-find-missing-and-repeated-values) |
 ## Database
 |  |
