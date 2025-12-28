@@ -8,7 +8,7 @@ class Solution {
         
         // Track whose color is changed
         boolean [][] visited = new boolean[image.length][image[0].length];
-        visited[sr][sc] = true;
+        // visited[sr][sc] = true;
 
         int [] dx = {1,-1,0,0}; // move up and down
         int [] dy = {0,0,1,-1}; // move left and right
@@ -25,7 +25,6 @@ class Solution {
 
                 if(nx>=0 && ny>=0 && nx<image.length && ny<image[0].length && image[nx][ny] == pixel && !visited[nx][ny]){
                     image[nx][ny] = color;
-                    
                     q.add(new int[] {nx, ny});
                 }
             }
