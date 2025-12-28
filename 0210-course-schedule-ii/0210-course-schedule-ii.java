@@ -1,9 +1,10 @@
+// Topological Sorting
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
          // store the sorted order in ans array
         int [] ans = new int[numCourses]; int k =0;  // help iterate over the answer array
 
-        
+        // if no prerequitis the print 0 to numCourses-1 (i.e any course can be done any time)
         if(prerequisites.length == 0){
             for(int i=0; i<numCourses; i++){
                 ans[i] = i;
