@@ -35,6 +35,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0518-coin-change-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 ## Recursion
@@ -285,6 +286,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -324,6 +326,7 @@
 | [0547-number-of-provinces](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
@@ -350,6 +353,7 @@
 | [0547-number-of-provinces](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1020-number-of-enclaves) |
@@ -409,6 +413,7 @@
 | [0210-course-schedule-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -416,4 +421,8 @@
 | [0207-course-schedule](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
