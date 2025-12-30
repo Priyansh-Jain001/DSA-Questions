@@ -324,6 +324,7 @@
 | [0547-number-of-provinces](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -349,6 +350,7 @@
 | [0547-number-of-provinces](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -407,9 +409,11 @@
 | [0210-course-schedule-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
