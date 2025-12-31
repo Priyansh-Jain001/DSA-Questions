@@ -329,6 +329,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -358,6 +359,7 @@
 | [0994-rotting-oranges](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Quickselect
 |  |
 | ------- |
@@ -406,6 +408,7 @@
 | [0547-number-of-provinces](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph
 |  |
 | ------- |
@@ -415,6 +418,7 @@
 | [0785-is-graph-bipartite](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
 | ------- |
