@@ -111,6 +111,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3227-find-missing-and-repeated-values](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -328,6 +329,7 @@
 | [0785-is-graph-bipartite](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
@@ -407,6 +409,7 @@
 | [0130-surrounded-regions](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph
@@ -418,6 +421,7 @@
 | [0785-is-graph-bipartite](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
