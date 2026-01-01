@@ -174,6 +174,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0735-asteroid-collision) |
+| [0778-swim-in-rising-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0898-transpose-matrix) |
@@ -225,6 +226,7 @@
 | [0268-missing-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0778-swim-in-rising-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -287,6 +289,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0778-swim-in-rising-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bucket Sort
 |  |
@@ -326,6 +329,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
@@ -355,6 +359,7 @@
 | [0322-coin-change](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
@@ -387,6 +392,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0778-swim-in-rising-water) |
 | [0898-transpose-matrix](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1020-number-of-enclaves) |
@@ -408,6 +414,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1020-number-of-enclaves) |
