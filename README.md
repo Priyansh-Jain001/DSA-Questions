@@ -168,6 +168,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0518-coin-change-ii) |
@@ -194,6 +195,7 @@
 | [0148-sort-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -226,6 +229,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0792-binary-search) |
@@ -443,4 +447,16 @@
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
