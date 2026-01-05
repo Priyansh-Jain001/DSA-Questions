@@ -188,6 +188,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1539-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3227-find-missing-and-repeated-values](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -241,6 +242,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
