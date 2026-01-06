@@ -51,6 +51,8 @@ public class Solution {
 
          return null; */
 
+        /* 
+        Store the node in the hashSet and check
         HashSet<ListNode> set = new HashSet<>();
         ListNode temp = headA;
 
@@ -70,6 +72,41 @@ public class Solution {
         }
 
         return null;
-         
+        */
+
+        ListNode tempA = headA, tempB = headB;
+        int sizeA = 0, sizeB = 0;
+
+        // Find the size of both the LL
+        while(tempA != null){
+            sizeA++;
+            tempA = tempA.next;
+        } 
+
+        while(tempB != null){
+            sizeB++;
+            tempB = tempB.next;
+        }
+
+        tempA = headA; tempB = headB;
+
+        if(sizeA > sizeB){
+            for(int i=1; i<=sizeA - sizeB; i++){
+                tempA = tempA.next;
+            }
+        }
+        else if(sizeB > sizeA){
+            for(int i=1; i<=sizeB - sizeA; i++){
+                tempB = tempB.next;
+            }
+        }
+
+        while(tempA != tempB){
+            tempA = tempA.next;
+            tempB = tempB.next;
+        }
+        
+        return tempA;
+        
     }
 }
