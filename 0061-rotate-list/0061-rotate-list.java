@@ -3,9 +3,9 @@ class Solution {
         if (head == null || head.next == null || k == 0) return head;
 
         ListNode temp = head;
-        int size = 1;
+        int size = 0;
 
-        while (temp.next != null) {
+        while (temp != null) {
             size++;
             temp = temp.next;
         }
