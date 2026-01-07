@@ -184,6 +184,7 @@
 | [0735-asteroid-collision](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0792-binary-search) |
+| [0860-lemonade-change](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0907-koko-eating-bananas) |
@@ -299,6 +300,7 @@
 | [0055-jump-game](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
