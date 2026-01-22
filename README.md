@@ -277,6 +277,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0541-reverse-string-ii) |
+| [0796-rotate-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/1250-longest-common-subsequence) |
@@ -429,6 +430,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Priyansh-Jain001/DSA-Questions/tree/master/0812-rotate-string) |
 ## Union Find
 |  |
